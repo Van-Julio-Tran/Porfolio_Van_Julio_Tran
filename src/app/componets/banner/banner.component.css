@@ -1,0 +1,10 @@
+#banner {
+  border-radius: 3rem;
+  padding: 0 10px;
+}
+
+@media (max-width: 575px) {
+  #banner {
+    min-height: 30vh;
+  }
+}

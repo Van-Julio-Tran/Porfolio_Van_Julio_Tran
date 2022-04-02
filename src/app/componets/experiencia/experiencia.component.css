@@ -1,0 +1,27 @@
+#color1 {
+  background-color: #6eb8f5;
+}
+
+#color2 {
+  background-color: #9acef8;
+}
+
+#color3 {
+  background-color: #c3e3fd;
+}
+
+#color4 {
+  background-color: #e8f5ff;
+}
+
+h1 {
+  display: inline;
+}
+
+ul {
+  list-style: none;
+}
+
+.row {
+  padding: 25px;
+}

@@ -1,0 +1,27 @@
+/* .fondo-header {
+  background-color: #6bbcf7;
+} */
+.ArgLogo {
+  width: 150px;
+}
+
+/* .fondo-header2 {
+  background-color: #8cbcde;
+} */
+
+.redes-sociales {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+@media (max-width: 575.98px) {
+  .ArgLogo-mobile {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+#navbar1 {
+  display: flex;
+  justify-content: center;
+}
