@@ -1,0 +1,23 @@
+/* .fondo-hds{
+border-radius: 3rem;
+
+} */
+
+/* .background-hds {
+ 
+    padding-block-end: 0.75rem;
+} */
+
+.fondo-circulos{
+    background-color:#9acef8 ;
+    border-radius: 3rem;
+}
+
+*{
+    background-color: #6eb8f5;
+}
+
+h1 , circle-progress {
+background-color: #9acef8 ;
+
+}
