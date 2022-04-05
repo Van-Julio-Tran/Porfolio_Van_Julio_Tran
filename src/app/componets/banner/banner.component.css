@@ -1,10 +1,15 @@
 #banner {
   border-radius: 3rem;
-  padding: 0 10px;
+  padding: 0 13px;
+  padding-block-end: 0.75rem;
+  
 }
 
 @media (max-width: 575px) {
   #banner {
     min-height: 30vh;
   }
+}
+*{
+  background-color: #6eb8f5 ;
 }
