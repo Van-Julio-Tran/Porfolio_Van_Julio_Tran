@@ -1,0 +1,18 @@
+
+ul {
+    list-style: none;
+  }
+    
+  .background-color-exp {
+    background-color: #6eb8f5;
+    padding-block-end: 0.75rem;
+  }
+  
+  .fondo-exp {
+    border-radius: 3rem;
+  }
+  
+  * {
+    background-color: #9acef8;
+     
+  }

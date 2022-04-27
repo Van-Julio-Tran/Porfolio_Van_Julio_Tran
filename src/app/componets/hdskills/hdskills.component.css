@@ -15,6 +15,7 @@ border-radius: 3rem;
 
 *{
     background-color: #6eb8f5;
+    padding-block-end: 0.2rem;
 }
 
 h1 , circle-progress {
